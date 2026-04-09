@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Red Oaks Pergolas",
+    "phone": "+19158731822",
+    "category": "deck contractor",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Premier Deck Builders",
+      "heroSubline": "Crafting outdoor living spaces designed for the desert climate. Expert pergolas and decks built to last.",
+      "aboutTitle": "Built on Integrity, Crafted for El Paso",
+      "aboutText": [
+        "Red Oaks Pergolas started with a simple goal: to build decks and pergolas that can withstand the harsh El Paso sun and provide families with beautiful, functional outdoor spaces. We're not just builders; we're your neighbors, committed to enhancing our community one project at a time.",
+        "Our approach is straightforward: we listen to your needs, design a solution that fits your lifestyle and budget, and execute the project with precision and care. We use only the highest quality materials and employ proven techniques to ensure your deck or pergola stands the test of time.",
+        "We're proud to be a part of the El Paso community. We source materials locally whenever possible and actively support local charities and initiatives. When you choose Red Oaks Pergolas, you're not just getting a great deck; you're investing in your community."
+      ],
+      "valueProps": [
+        {
+          "title": "Desert-Ready Designs",
+          "description": "We specialize in decks and pergolas built to withstand El Paso's extreme temperatures and minimal rainfall, using durable materials and proven construction methods."
+        },
+        {
+          "title": "Customized Solutions",
+          "description": "From initial consultation to final installation, we work closely with you to create a unique outdoor space that perfectly complements your home and lifestyle."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our team of skilled carpenters brings years of experience to every project, ensuring meticulous attention to detail and unparalleled quality."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed estimates upfront, so you know exactly what to expect. No hidden fees, no surprises, just honest and reliable service."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free quote on your dream deck or pergola today! Call us to schedule a consultation."
+    },
+    "services": [
+      {
+        "slug": "deck-construction",
+        "name": "Deck Construction",
+        "shortDescription": "Expert deck building for El Paso homes, designed for lasting beauty and enjoyment.",
+        "description": "We specialize in designing and building custom decks that perfectly complement your El Paso home and lifestyle. From classic wood decks to low-maintenance composite decks, we offer a wide range of materials and styles to choose from. We understand the unique challenges of the El Paso climate, and we build our decks to withstand the intense sun, extreme temperatures, and occasional heavy rains. \n\nOur deck construction process begins with a thorough consultation to understand your needs and preferences. We'll work with you to create a design that maximizes your outdoor space and enhances your home's value. We handle all aspects of the construction process, from obtaining permits to final inspection, ensuring a smooth and stress-free experience for you. We pride ourselves on our attention to detail and commitment to quality craftsmanship.\n\nWhether you're looking for a small deck for intimate gatherings or a large deck for entertaining, we have the expertise to bring your vision to life. We use only the highest quality materials and employ proven construction techniques to ensure your deck is built to last. We also offer a variety of deck accessories, such as railings, stairs, and lighting, to customize your deck to your exact specifications. Let us help you create the perfect outdoor oasis for your El Paso home.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision and create a custom deck design.",
+          "Step 2: Permitting and Preparation – We handle all necessary permits and prepare the construction site.",
+          "Step 3: Construction and Installation – Our skilled team builds your deck with precision and care.",
+          "Step 4: Final Inspection and Cleanup – We ensure your complete satisfaction and leave your property spotless."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Outdoor Living Space",
+          "Customized Design to Fit Your Needs",
+          "Durable Construction for the El Paso Climate"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for deck construction?",
+            "answer": "We offer a variety of materials, including pressure-treated wood, cedar, redwood, and composite decking. We can help you choose the best material based on your budget, aesthetic preferences, and maintenance requirements."
+          },
+          {
+            "question": "How long does it take to build a deck?",
+            "answer": "The timeline for deck construction depends on the size and complexity of the project. A typical deck can be completed in 1-2 weeks, but larger or more intricate decks may take longer."
+          },
+          {
+            "question": "Do I need a permit to build a deck in El Paso?",
+            "answer": "Yes, a permit is typically required to build a deck in El Paso. We handle the permitting process for you, ensuring that your deck meets all local building codes and regulations."
+          }
+        ]
+      },
+      {
+        "slug": "pergola-construction",
+        "name": "Pergola Construction",
+        "shortDescription": "Custom pergolas designed to provide shade and beauty in the El Paso sun.",
+        "description": "Enhance your El Paso outdoor living space with a custom-built pergola from Red Oaks Pergolas. We specialize in designing and constructing pergolas that provide shade, style, and a focal point for your backyard. Our pergolas are built to withstand the harsh El Paso sun and add value to your home. We offer a variety of pergola styles, from traditional to modern, and can customize your pergola to your exact specifications. \n\nOur pergola construction process begins with a consultation to understand your needs and preferences. We'll work with you to create a design that complements your home's architecture and provides the perfect amount of shade. We use only the highest quality materials, such as cedar, redwood, and pressure-treated wood, to ensure your pergola is built to last. We also offer a variety of finishing options, such as staining and painting, to match your home's exterior.\n\nWhether you're looking for a small pergola to create a cozy seating area or a large pergola to cover your entire patio, we have the expertise to bring your vision to life. We handle all aspects of the construction process, from obtaining permits to final inspection, ensuring a smooth and stress-free experience for you. Let us help you create the perfect outdoor retreat for your El Paso home.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your pergola needs and design preferences.",
+          "Step 2: Material Selection – We help you choose the best materials for your pergola based on your budget and style.",
+          "Step 3: Construction and Installation – Our experienced team builds your pergola with precision and attention to detail.",
+          "Step 4: Finishing Touches – We stain or paint your pergola to match your home's exterior."
+        ],
+        "benefits": [
+          "Provides Shade and Protection from the Sun",
+          "Adds Beauty and Style to Your Backyard",
+          "Increases Home Value",
+          "Creates a Comfortable Outdoor Living Space"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for pergolas?",
+            "answer": "We primarily use cedar, redwood, and pressure-treated wood for our pergolas. Each material offers unique benefits in terms of durability, aesthetics, and cost."
+          },
+          {
+            "question": "Can you build a pergola attached to my house?",
+            "answer": "Yes, we can build attached pergolas that seamlessly integrate with your home's existing structure. We'll ensure that the pergola is properly supported and connected to your home for maximum stability."
+          },
+          {
+            "question": "Do I need to maintain my pergola?",
+            "answer": "Yes, regular maintenance is recommended to keep your pergola looking its best. This may include cleaning, staining, and sealing to protect the wood from the elements."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair",
+        "name": "Deck Repair & Restoration",
+        "shortDescription": "Extending the life of your El Paso deck with expert repairs and restoration services.",
+        "description": "Don't let a damaged deck detract from your El Paso home's beauty and value. Red Oaks Pergolas offers comprehensive deck repair and restoration services to keep your deck safe, functional, and looking its best. We understand the unique challenges that the El Paso climate poses to decks, and we have the expertise to address a wide range of issues, from rotting wood to loose railings.\n\nOur deck repair services include replacing damaged boards, repairing or replacing railings, reinforcing support beams, and addressing water damage. We use only the highest quality materials and employ proven techniques to ensure your deck is structurally sound and aesthetically pleasing. Our restoration services include power washing, staining, and sealing to protect your deck from the elements and enhance its natural beauty.\n\nWhether your deck needs minor repairs or a complete overhaul, we have the expertise to get the job done right. We'll assess the condition of your deck and provide you with a detailed estimate outlining the necessary repairs and restoration work. We pride ourselves on our transparent pricing and commitment to customer satisfaction. Let us help you extend the life of your El Paso deck and enjoy your outdoor space for years to come.",
+        "process": [
+          "Step 1: Deck Inspection – We thoroughly inspect your deck to identify any damage or problem areas.",
+          "Step 2: Repair Plan – We develop a detailed repair plan and provide you with a transparent estimate.",
+          "Step 3: Deck Repairs – Our skilled team performs the necessary repairs using high-quality materials.",
+          "Step 4: Deck Restoration – We clean, stain, and seal your deck to protect it from the elements."
+        ],
+        "benefits": [
+          "Extends the Life of Your Deck",
+          "Improves Deck Safety",
+          "Enhances Deck Appearance",
+          "Increases Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my deck needs repair?",
+            "answer": "Signs that your deck may need repair include rotting wood, loose railings, wobbly stairs, and sagging support beams. If you notice any of these issues, it's important to have your deck inspected by a professional."
+          },
+          {
+            "question": "What is the best way to protect my deck from the El Paso sun?",
+            "answer": "Staining and sealing your deck regularly is the best way to protect it from the El Paso sun. We recommend using a high-quality sealant with UV inhibitors to prevent fading and cracking."
+          },
+          {
+            "question": "How often should I clean my deck?",
+            "answer": "We recommend cleaning your deck at least once a year to remove dirt, debris, and mildew. Power washing can be an effective way to clean your deck, but it's important to use the correct pressure to avoid damaging the wood."
+          }
+        ]
+      },
+      {
+        "slug": "pergola-repair",
+        "name": "Pergola Repair & Maintenance",
+        "shortDescription": "Keeping your El Paso pergola in top shape with expert repairs and maintenance.",
+        "description": "Protect your investment and keep your pergola looking its best with Red Oaks Pergolas' expert repair and maintenance services. We understand the importance of maintaining your pergola to ensure its longevity and structural integrity, especially in the challenging El Paso climate. Our team of experienced carpenters can address a wide range of pergola issues, from minor repairs to major structural damage.\n\nOur pergola repair services include replacing damaged posts, beams, and slats, repairing or replacing hardware, and reinforcing connections. We use only the highest quality materials and employ proven techniques to ensure your pergola is structurally sound and aesthetically pleasing. Our maintenance services include cleaning, staining, and sealing to protect your pergola from the elements and prevent rot, decay, and insect infestation.\n\nWhether your pergola needs a minor tune-up or a complete overhaul, we have the expertise to get the job done right. We'll assess the condition of your pergola and provide you with a detailed estimate outlining the necessary repairs and maintenance work. We pride ourselves on our transparent pricing and commitment to customer satisfaction. Let us help you keep your El Paso pergola in top shape for years to come.",
+        "process": [
+          "Step 1: Pergola Inspection – We inspect your pergola for damage, rot, and insect infestation.",
+          "Step 2: Repair Plan – We create a detailed repair plan and provide you with a transparent estimate.",
+          "Step 3: Pergola Repairs – Our skilled team performs the necessary repairs using high-quality materials.",
+          "Step 4: Pergola Maintenance – We clean, stain, and seal your pergola to protect it from the elements."
+        ],
+        "benefits": [
+          "Extends the Life of Your Pergola",
+          "Improves Pergola Safety",
+          "Enhances Pergola Appearance",
+          "Prevents Costly Repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I maintain my pergola?",
+            "answer": "We recommend maintaining your pergola at least once a year to protect it from the elements and prevent damage. This may include cleaning, staining, and sealing."
+          },
+          {
+            "question": "What are the signs of pergola damage?",
+            "answer": "Signs of pergola damage include rotting wood, cracked or broken posts, loose connections, and insect infestation. If you notice any of these issues, it's important to have your pergola inspected by a professional."
+          },
+          {
+            "question": "Can you repair a pergola that has been damaged by termites?",
+            "answer": "Yes, we can repair pergolas that have been damaged by termites. We'll remove the damaged wood and replace it with treated lumber to prevent future infestations."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protecting and beautifying your El Paso deck with professional staining and sealing.",
+        "description": "Protect your El Paso deck from the harsh elements with Red Oaks Pergolas' professional staining and sealing services. Our expert team uses high-quality stains and sealants to enhance your deck's natural beauty and protect it from sun damage, water damage, and mildew. We understand the unique challenges of the El Paso climate, and we use products that are specifically designed to withstand the intense sun and extreme temperatures.\n\nOur deck staining and sealing process begins with a thorough cleaning to remove dirt, debris, and mildew. We then apply a high-quality stain or sealant that will protect your deck from the elements and enhance its natural beauty. We offer a wide range of stain colors to choose from, so you can find the perfect match for your home's exterior. We also offer clear sealants that will protect your deck without changing its color.\n\nWhether you're looking to protect a new deck or restore an existing one, we have the expertise to get the job done right. We pride ourselves on our attention to detail and commitment to customer satisfaction. Let us help you keep your El Paso deck looking its best for years to come.",
+        "process": [
+          "Step 1: Deck Cleaning – We thoroughly clean your deck to remove dirt, debris, and mildew.",
+          "Step 2: Stain/Sealant Application – We apply a high-quality stain or sealant to protect your deck from the elements.",
+          "Step 3: Drying Time – We allow the stain or sealant to dry completely.",
+          "Step 4: Final Inspection – We inspect your deck to ensure that the stain or sealant has been applied evenly and thoroughly."
+        ],
+        "benefits": [
+          "Protects Deck from Sun Damage",
+          "Protects Deck from Water Damage",
+          "Prevents Mildew Growth",
+          "Enhances Deck Appearance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "We recommend staining or sealing your deck every 1-2 years, depending on the type of product used and the amount of exposure to the elements."
+          },
+          {
+            "question": "What is the difference between stain and sealant?",
+            "answer": "Stain adds color to your deck and provides some protection from the elements, while sealant is a clear coating that protects your deck from water damage and mildew. Some products combine both stain and sealant in one."
+          },
+          {
+            "question": "Can I stain or seal my deck myself?",
+            "answer": "While it is possible to stain or seal your deck yourself, we recommend hiring a professional to ensure that the job is done correctly and that the products are applied evenly and thoroughly."
+          }
+        ]
+      },
+      {
+        "slug": "deck-design",
+        "name": "Custom Deck Design",
+        "shortDescription": "Creating the perfect outdoor living space with custom deck designs tailored for El Paso.",
+        "description": "Transform your backyard into an outdoor oasis with a custom deck design from Red Oaks Pergolas. We specialize in creating unique and functional deck designs that perfectly complement your El Paso home and lifestyle. Our experienced designers will work closely with you to understand your needs and preferences, and we'll create a design that maximizes your outdoor space and enhances your home's value.\n\nOur deck design process begins with a thorough consultation to discuss your vision, budget, and lifestyle. We'll then create a 3D rendering of your deck design, so you can visualize the finished product before construction begins. We'll also provide you with a detailed estimate outlining the cost of materials and labor.\n\nWhether you're looking for a simple deck for relaxing or a multi-level deck for entertaining, we have the expertise to bring your vision to life. We use only the highest quality materials and employ proven construction techniques to ensure your deck is built to last. Let us help you create the perfect outdoor living space for your El Paso home.",
+        "process": [
+          "Step 1: Initial Consultation – We discuss your vision, budget, and lifestyle.",
+          "Step 2: Design Development – We create a 3D rendering of your deck design.",
+          "Step 3: Material Selection – We help you choose the best materials for your deck.",
+          "Step 4: Estimate Approval – We provide you with a detailed estimate for the project."
+        ],
+        "benefits": [
+          "Customized Design to Fit Your Needs",
+          "Enhanced Outdoor Living Space",
+          "Increased Home Value",
+          "Professional Design Expertise"
+        ],
+        "faq": [
+          {
+            "question": "How much does a custom deck design cost?",
+            "answer": "The cost of a custom deck design depends on the size and complexity of the project. We offer free consultations and estimates, so contact us today to discuss your project."
+          },
+          {
+            "question": "How long does it take to design a deck?",
+            "answer": "The timeline for designing a deck depends on the complexity of the project. A typical deck design can be completed in 1-2 weeks."
+          },
+          {
+            "question": "Can you incorporate features like built-in seating and outdoor kitchens into my deck design?",
+            "answer": "Yes, we can incorporate a variety of features into your deck design, including built-in seating, outdoor kitchens, fire pits, and more."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas is proud to offer our expert pergola and deck construction services to the residents of El Paso, Texas. We understand the unique architectural styles and desert climate of the area, and we tailor our designs to perfectly complement your home and withstand the elements. From custom pergolas that provide shade and beauty to durable decks perfect for outdoor entertaining, we're committed to bringing your outdoor vision to life.\n\nOur team uses only the highest-quality materials and construction techniques to ensure lasting beauty and functionality. We work closely with you throughout the entire process, from initial consultation and design to final installation, ensuring your complete satisfaction. Let Red Oaks Pergolas transform your outdoor space into a haven you'll enjoy for years to come.",
+        "localContext": "El Paso, a vibrant city bordering Mexico, boasts a rich cultural heritage and stunning desert landscapes. Its unique blend of traditions and outdoor activities makes it a wonderful place to call home.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "Socorro"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas extends its premium pergola and deck building services to Socorro, Texas. We appreciate the close-knit community and the desire for beautiful, functional outdoor living spaces in this area. Our team is dedicated to providing customized solutions that meet your specific needs and preferences, enhancing your home's value and your enjoyment of the outdoors.\n\nWe offer a wide range of design options, from classic pergolas to modern decks, all built with meticulous attention to detail and using durable, weather-resistant materials. Red Oaks Pergolas is committed to delivering exceptional craftsmanship and customer service, ensuring your complete satisfaction with your new outdoor living space.",
+        "localContext": "Socorro, with its historical roots and family-friendly atmosphere, is a growing community just southeast of El Paso. Its residents value quality and community spirit.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas is delighted to serve the growing community of Horizon City, Texas, with our professional pergola and deck construction services. We understand the needs of homeowners in this area who are looking to create beautiful and functional outdoor spaces for relaxation and entertainment. Our team is committed to providing personalized service and exceptional craftsmanship to every project.\n\nWhether you envision a cozy pergola for enjoying the sunset or a spacious deck for hosting gatherings, Red Oaks Pergolas can bring your dream to life. We use only the highest-quality materials and construction techniques to ensure lasting beauty and durability, adding value and enjoyment to your home for years to come.",
+        "localContext": "Horizon City is a rapidly developing community east of El Paso, known for its family-friendly atmosphere and modern homes.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas is pleased to offer our expert pergola and deck building services to the residents of Clint, Texas. We appreciate the unique charm and rural character of this community, and we are committed to providing customized outdoor living solutions that complement your home and lifestyle. Our team is dedicated to delivering exceptional craftsmanship and customer service on every project.\n\nFrom classic pergolas to modern decks, we offer a wide range of design options to suit your specific needs and preferences. We use only the highest-quality materials and construction techniques to ensure lasting beauty and durability, adding value and enjoyment to your home for years to come. Let Red Oaks Pergolas transform your outdoor space into a haven you'll love.",
+        "localContext": "Clint, a town steeped in history, blends its rural past with modern living, offering a peaceful environment for families.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas provides top-quality pergola and deck construction services to San Elizario, Texas. We recognize the historical significance and cultural richness of this area, and we strive to create outdoor spaces that honor its heritage while providing modern comfort and functionality. Our team is dedicated to delivering exceptional craftsmanship and personalized service to every client.\n\nWhether you're looking to add a charming pergola to your historic home or build a spacious deck for entertaining, Red Oaks Pergolas can bring your vision to life. We use only the finest materials and construction techniques to ensure lasting beauty and durability, adding value and enjoyment to your home for generations to come.",
+        "localContext": "San Elizario, a historic town with deep roots in Texas history, preserves its cultural heritage while embracing modern living.",
+        "nearbyAreas": [
+          "Clint",
+          "Socorro",
+          "Ysleta"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas is proud to offer our services to the residents and business owners of Anthony, Texas. We provide high-quality pergolas and decks with a focus on customer satisfaction. Our goal is to enhance your home and business with beautiful, functional outdoor spaces.\n\nWe're able to customize our designs to meet your specific needs. Whether you want a simple deck, or an elaborate pergola, we'll work with you to create something you'll love for years to come. We also use only the best materials to ensure your investment is protected. Contact us today to get started.",
+        "localContext": "Anthony is a small town on the border of Texas and New Mexico. Known as the 'Leap Year Capital of the World', Anthony is a tight knit community with a lot of pride.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas is happy to offer our services to the residents and business owners of Canutillo, Texas. We provide high-quality pergolas and decks with a focus on customer satisfaction. Our goal is to enhance your home and business with beautiful, functional outdoor spaces.\n\nWe're able to customize our designs to meet your specific needs. Whether you want a simple deck, or an elaborate pergola, we'll work with you to create something you'll love for years to come. We also use only the best materials to ensure your investment is protected. Contact us today to get started.",
+        "localContext": "Canutillo is a suburb of El Paso, Texas, known for its excellent schools and strong community.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Red Oaks Pergolas is pleased to offer our expert services to the residents of Vinton, Texas. We understand that homeowners in Vinton value quality craftsmanship and personalized service, and we are committed to exceeding your expectations. Our team works closely with you to design and build the perfect pergola or deck that complements your home and enhances your outdoor living experience.\n\nWe take pride in using only the highest-quality materials and construction techniques to ensure lasting beauty and durability. Whether you're looking for a cozy pergola for relaxing evenings or a spacious deck for entertaining guests, Red Oaks Pergolas is here to bring your vision to life.",
+        "localContext": "Vinton, located northwest of El Paso, offers a blend of rural charm and convenient access to city amenities.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "Red Oaks Pergolas built us a fantastic deck! The whole team was professional, efficient, and the quality of their work is outstanding. Our family is already enjoying our new outdoor space. Highly recommend!",
+        "date": "2024-10-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Pergola Construction",
+        "text": "We hired Red Oaks to build a pergola to provide shade on our patio. The design process was collaborative, and they were very accommodating to our requests. The finished pergola looks great and is exactly what we wanted. There was a small delay due to material availability, but they kept us informed throughout the process.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Jessica S.",
+        "rating": 5,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after years of El Paso sun and monsoons. Red Oaks Pergolas did an excellent job repairing and restoring it. They replaced damaged boards, reinforced the structure, and applied a fresh coat of stain. It looks like new!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Deck Staining & Sealing",
+        "text": "Red Oaks Pergolas did a fantastic job staining and sealing our deck. They were professional, efficient, and paid close attention to detail. The deck looks great, and we know it's well-protected from the elements.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Amy P.",
+        "rating": 4,
+        "service": "Pergola Repair & Maintenance",
+        "text": "We had some damage to our pergola after a recent windstorm. Red Oaks Pergolas came out quickly and made the necessary repairs. They were professional, reliable, and their prices were fair.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "I couldn't be happier with the deck Red Oaks Pergolas built for us. They were professional, communicative, and the quality of their work is exceptional. The deck is perfect for entertaining and relaxing. I highly recommend them!",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "El Paso Deck & Pergola Experts",
+        "description": "Red Oaks Pergolas: Custom decks and pergolas built for the El Paso climate. Expert construction, repair, and staining services."
+      },
+      "about": {
+        "title": "About Red Oaks Pergolas | El Paso TX",
+        "description": "Learn about Red Oaks Pergolas' commitment to quality and community in El Paso, TX. Custom decks and pergolas built with integrity."
+      },
+      "services": {
+        "title": "El Paso Deck & Pergola Services",
+        "description": "Red Oaks Pergolas offers expert deck and pergola construction, repair, staining, and maintenance services in El Paso, TX."
+      },
+      "contact": {
+        "title": "Contact Red Oaks Pergolas | El Paso TX",
+        "description": "Get a free quote on your dream deck or pergola. Contact Red Oaks Pergolas today for expert service in El Paso, TX."
+      },
+      "reviews": {
+        "title": "Red Oaks Pergolas Reviews | El Paso TX",
+        "description": "Read what our satisfied customers are saying about Red Oaks Pergolas. Expert deck and pergola services in El Paso, TX."
+      },
+      "service-areas": {
+        "title": "Red Oaks Pergolas Service Areas",
+        "description": "Areas we serve for deck and pergola construction, repair in and around El Paso, TX. Call for your free quote today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "deck-construction": "/images/service-deck-construction.webp",
+      "pergola-construction": "/images/service-pergola-construction.webp",
+      "deck-repair": "/images/service-deck-repair.webp",
+      "pergola-repair": "/images/service-pergola-repair.webp",
+      "deck-staining": "/images/service-deck-staining.webp",
+      "deck-design": "/images/service-deck-design.webp"
+    },
+    "servicesResponsive": {
+      "deck-construction": {
+        "src": "/images/service-deck-construction.webp",
+        "srcset": "/images/service-deck-construction-400w.webp 400w, /images/service-deck-construction-800w.webp 800w, /images/service-deck-construction-1200w.webp 1200w, /images/service-deck-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergola-construction": {
+        "src": "/images/service-pergola-construction.webp",
+        "srcset": "/images/service-pergola-construction-400w.webp 400w, /images/service-pergola-construction-800w.webp 800w, /images/service-pergola-construction-1200w.webp 1200w, /images/service-pergola-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair": {
+        "src": "/images/service-deck-repair.webp",
+        "srcset": "/images/service-deck-repair-400w.webp 400w, /images/service-deck-repair-800w.webp 800w, /images/service-deck-repair-1200w.webp 1200w, /images/service-deck-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergola-repair": {
+        "src": "/images/service-pergola-repair.webp",
+        "srcset": "/images/service-pergola-repair-400w.webp 400w, /images/service-pergola-repair-800w.webp 800w, /images/service-pergola-repair-1200w.webp 1200w, /images/service-pergola-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining": {
+        "src": "/images/service-deck-staining.webp",
+        "srcset": "/images/service-deck-staining-400w.webp 400w, /images/service-deck-staining-800w.webp 800w, /images/service-deck-staining-1200w.webp 1200w, /images/service-deck-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-design": {
+        "src": "/images/service-deck-design.webp",
+        "srcset": "/images/service-deck-design-400w.webp 400w, /images/service-deck-design-800w.webp 800w, /images/service-deck-design-1200w.webp 1200w, /images/service-deck-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
